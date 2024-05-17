@@ -4,20 +4,20 @@ This project contains a web scraper for extracting job data from a given URL. Th
 
 ## Project Structure
 
-    ```plaintext
-    linedin_job_scraper/
-    ├── job_scraper/
-    │   ├── __init__.py
-    │   ├── scraper.py
-    │   ├── utils.py
-    │   ├── config.py
-    ├── tests/
-    │   ├── __init__.py
-    │   ├── test_scraper.py
-    ├── main.py
-    ├── requirements.txt
-    ├── README.md
-    ```
+```plaintext
+linedin_job_scraper/
+├── job_scraper/
+│   ├── __init__.py
+│   ├── scraper.py
+│   ├── utils.py
+│   ├── config.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_scraper.py
+├── main.py
+├── requirements.txt
+├── README.md
+```
 
 
 ## Setup
